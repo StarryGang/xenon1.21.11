@@ -1,0 +1,6 @@
+v1	named	intermediary
+METHOD	com/xenon/mixin/CameraMixin	(DDD)V	setPos	method_19327
+METHOD	com/xenon/mixin/CameraMixin	(FF)V	setRotation	method_19325
+METHOD	com/xenon/mixin/CameraMixin	(F)F	clipToSpace	method_19318
+METHOD	com/xenon/mixin/CameraMixin	(FFF)V	moveBy	method_19324
+METHOD	com/xenon/mixin/PlayerListEntryMixin	()Lcom/mojang/authlib/GameProfile;	getProfile	method_2966
